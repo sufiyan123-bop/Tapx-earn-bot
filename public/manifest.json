@@ -1,0 +1,25 @@
+{
+  "name": "TapX - Earn Money by Tapping",
+  "short_name": "TapX",
+  "description": "Telegram Mini App for earning money through tapping with VIP tiers and referral system",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["games", "entertainment", "finance"],
+  "lang": "en",
+  "dir": "ltr"
+}
